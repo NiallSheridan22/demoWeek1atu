@@ -1,0 +1,10 @@
+As a <Scrum Master >, I want <to encourage team members > so that <  we reach our product goal >.
+As a <Scrum Master >, I will < help team  > so that < they understand the project tasks >.
+As a <Scrum Master >, I will < observe  > so that < I can see how members are getting on  >.
+As a <Scrum Master >, I will < assist the product owner  >  < to find techniques to effectively define the product goal  >.
+As a <Scrum Master >, I will < remove > any < impediments >.
+As a <Scrum Master >, I will < motivate > team members <  to boost confidence>.
+As a <Scrum Master >, I will <  ensure the team development > is working < effectively by conducting regular reviews >.
+As a <Scrum Master >, I will < help the development team > so that < they create high-value products >.
+As a <Scrum Master >, I will < help > resolve < conflicts >.
+As a <Scrum Master >, I will < facillitate scrum events > if  <they are requested or needed >.
